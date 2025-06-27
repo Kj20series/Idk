@@ -1,0 +1,86 @@
+{
+	"songs": [
+		[
+			"Cared OG",
+			"qtkiby",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Censory-Reset OG",
+			"kiby-angry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deleting OG",
+			"kiby-mad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Restoring OG",
+			"qtkiby",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Expurgation-OG",
+			"kiby-mad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Censory-Reset-OG-DUO",
+			"kiby-angry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deleting-OG-DUO",
+			"kiby-mad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "kbwtf",
+	"difficulties": "Insane, Harder",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Kiby is waiting for you",
+	"weekName": "kiby",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "qtplus",
+	"startUnlocked": true
+}

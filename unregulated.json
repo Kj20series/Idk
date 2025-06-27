@@ -1,0 +1,31 @@
+{
+	"storyName": "KB, I'm here...",
+	"difficulties": "Reignited",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "massacre",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Unregulated",
+			"kb-unregulated",
+			[
+				95,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "unregulated"
+}

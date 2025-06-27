@@ -1,0 +1,53 @@
+{
+	"storyName": "Mkb want to play a new gamemode",
+	"difficulties": "massacre",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2MKBweekA",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"detected-og",
+			"kb",
+			[
+				40,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "lovelyHottie",
+	"hiddenUntilUnlocked": false
+}s",
+			"mkb",
+			[
+				40,
+				0,
+				60
+			]
+		],
+		[
+			"detected",
+			"mkb",
+			[
+				40,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "lovelyHottie",
+	"hiddenUntilUnlocked": false
+}

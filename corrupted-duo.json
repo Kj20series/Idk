@@ -1,0 +1,31 @@
+{
+	"storyName": "",
+	"difficulties": "Did You Think It Was Over",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "forgotaboutme",
+	"freeplayColor": [
+		0,
+		127,
+		127
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Corrupted Duo",
+			"kbc-angry",
+			[
+				0,
+				127,
+				127
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "corrupted-duo"
+}

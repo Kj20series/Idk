@@ -1,0 +1,31 @@
+{
+	"storyName": "fun",
+	"difficulties": "Future",
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "qtweek2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fun",
+			"qtkb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}}

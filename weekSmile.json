@@ -1,0 +1,31 @@
+{
+	"storyName": "Here we go again -_-",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "prologue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"confronting-yourself",
+			"bfc",
+			[
+				35,
+				35,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "FakeBF"
+}}}

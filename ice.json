@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"IceBeat",
+			"anby",
+			[
+				135,
+				205,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Extremely Cold",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Cold...",
+	"weekName": "ice",
+	"freeplayColor": [
+		135,
+		205,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "massacre",
+	"startUnlocked": false
+}

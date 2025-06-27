@@ -1,0 +1,31 @@
+{
+	"storyName": "Forgotten...",
+	"difficulties": "CORRUPTED",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "massacre",
+	"freeplayColor": [
+		0,
+		127,
+		127
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Forgotten",
+			"corrupted",
+			[
+				0,
+				127,
+				127
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "forgotaboutme"
+}

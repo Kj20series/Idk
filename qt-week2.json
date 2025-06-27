@@ -1,0 +1,26 @@
+{
+	"storyName": "Cutie",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"weekBefore": "",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cessation",
+			"qtkb",
+			[
+				0,
+				160,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "QT"
+}

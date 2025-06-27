@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Censory-Attention",
+			"kb-angry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "qt",
+	"difficulties": "Insane",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "BF is here again but kb is not happy to see him after so long",
+	"weekName": "kb-tutroial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

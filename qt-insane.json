@@ -1,0 +1,55 @@
+{
+	"storyName": "insane?!",
+	"difficulties": "insane",
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"final-destination",
+			"qthex",
+			[
+				226,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "qt-difficult"
+}
+			]
+		],
+		[
+			"run",
+			"qt",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"final-destination",
+			"qthex",
+			[
+				226,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "qt-difficult"
+}

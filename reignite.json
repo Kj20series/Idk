@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Reignite",
+			"kb-reignite",
+			[
+				135,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"difficulties": "Deadly Torned",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "#!$@%%!$^%$@%!$",
+	"weekName": "reignite",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "massacre",
+	"startUnlocked": true
+}

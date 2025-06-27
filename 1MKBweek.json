@@ -1,0 +1,42 @@
+{
+	"storyName": "A New Robot Appears....",
+	"difficulties": "Harder",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"weekBefore": "Tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Censory-Overload 2",
+			"kb",
+			[
+				60,
+				0,
+				120
+			]
+		],
+		[
+			"Termination-2",
+			"kbc-angry",
+			[
+				60,
+				0,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "1MKBweek"
+},
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "1MKBweek"
+}}

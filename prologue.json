@@ -1,0 +1,31 @@
+{
+	"storyName": "Prologue - Meet your \"friend\"           ",
+	"difficulties": "Easy, Normal, Hard, Harder",
+	"hideFreeplay": false,
+	"weekBackground": "prologue",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Useless",
+			"bfc",
+			[
+				215,
+				0,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "prologue"
+}

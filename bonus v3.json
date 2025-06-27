@@ -1,0 +1,32 @@
+{
+	"storyName": "Extra songs for the mod",
+	"difficulties": "Bonus",
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "qt",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Mind-Sides",
+			"kbc-angry",
+			[
+				215,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bonus"
+}s"
+}

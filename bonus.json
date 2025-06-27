@@ -1,0 +1,58 @@
+{
+	"storyName": "Extra Week 1 - Have a rest with KB      ",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "qt",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Quasar",
+			"kb",
+			[
+				200,
+				0,
+				155
+			]
+		],
+		[
+			"Genuine-Sucker",
+			"kb",
+			[
+				255,
+				175,
+				0
+			]
+		],
+		[
+			"Singularity",
+			"kb-angry",
+			[
+				155,
+				0,
+				255
+			]
+		],
+		[
+			"Unlucky-KB",
+			"kb-angry",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bonus"
+}

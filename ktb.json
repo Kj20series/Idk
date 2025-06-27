@@ -1,0 +1,78 @@
+{
+	"songs": [
+		[
+			"Caring OG",
+			"qt-hell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Not Caring OG",
+			"qt-hell",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reloading-hell OG",
+			"ktb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Destroyed OG",
+			"ktb-404",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reloading-hell DUO",
+			"ktb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Destroyed DUO",
+			"ktb-404",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ktbbye",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The game is just begining for you",
+	"weekName": "kbshell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "kiby",
+	"startUnlocked": true
+}ed": true
+}}}

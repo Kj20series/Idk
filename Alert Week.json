@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Corrupted-Alert",
+			"ALERT-C",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deleting-Alert",
+			"ALERT-I",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Corrupted",
+	"difficulties": "Massacre",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Alerts are not going to help for this",
+	"weekName": "Week 3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

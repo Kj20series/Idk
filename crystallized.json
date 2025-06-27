@@ -1,0 +1,31 @@
+{
+	"storyName": "Crystals!",
+	"difficulties": "Error-404",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "massacre",
+	"freeplayColor": [
+		58,
+		14,
+		101
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Crystallized",
+			"yotfon",
+			[
+				95,
+				35,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "crystallized"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Extra Week 2 - Be terminated on the spot",
+	"difficulties": "Normal, Hard, Harder",
+	"hideFreeplay": false,
+	"weekBackground": "bonusc",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "qt",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Detected",
+			"kb-angry",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"Expurgation",
+			"kb-angry",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Uproar",
+			"kbc-angry",
+			[
+				155,
+				40,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bonusc"
+}

@@ -1,0 +1,28 @@
+{
+	"storyName": "Cutie",
+	"difficulties": "Classic, Very Hard",
+	"hideFreeplay": false,
+	"weekBackground": "alleyway",
+	"weekBefore": "",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Termination-OG",
+			"kb",
+			[
+				128,
+				128,
+				128
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "QT"
+}
+	"weekName": "QT"
+}

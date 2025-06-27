@@ -1,0 +1,58 @@
+{
+	"storyName": "Extra Week 3 - #B#3###R#3#A#D#4#        ",
+	"difficulties": "Massacre",
+	"hideFreeplay": false,
+	"weekBackground": "massacre",
+	"weekBefore": "bonusc",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Alert",
+			"alert",
+			[
+				255,
+				80,
+				40
+			]
+		],
+		[
+			"Salvation",
+			"kb-salv",
+			[
+				215,
+				120,
+				0
+			]
+		],
+		[
+			"Dodge or Fade Away",
+			"kb-killer-angry",
+			[
+				95,
+				0,
+				0
+			]
+		],
+		[
+			"Overloaded",
+			"kb-angry",
+			[
+				95,
+				95,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "massacre"
+}

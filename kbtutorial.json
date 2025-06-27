@@ -1,0 +1,32 @@
+{
+	"storyName": "Tutorial from kbs - alert haha",
+	"difficulties": "Normal, Hard, Harder, Insane, Massacre",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"KB-Tutorial",
+			"kbs",
+			[
+				140,
+				140,
+				140
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "kbtutorial"
+}orial"
+}}

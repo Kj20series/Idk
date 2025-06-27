@@ -1,0 +1,58 @@
+{
+	"storyName": "not cutie...",
+	"difficulties": "insane, harder",
+	"hideFreeplay": false,
+	"weekBackground": "kbwtf",
+	"weekBefore": "qt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cared",
+			"qtkb",
+			[
+				215,
+				0,
+				130
+			]
+		]
+		[
+			"Censory-Reset",
+			"kb",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"Deleting",
+			"kbc-angry",
+			[
+				40,
+				0,
+				0
+			]
+		],
+		[
+			"Restoring",
+			"qtkb",
+			[
+				255,
+				73,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "qtplus"
+}

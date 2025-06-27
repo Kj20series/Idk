@@ -1,0 +1,86 @@
+{
+	"songs": [
+		[
+			"Fuckedless",
+			"qtkb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Censory-Fuckedload",
+			"kb-angry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedmination",
+			"kb-error",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedminated",
+			"kb-mad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedless-V3",
+			"qtkbold",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Censory-Fuckedload-V3",
+			"zkbangry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedmination-V3",
+			"zkbangry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "noqt",
+	"difficulties": "Insane",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your doomed",
+	"weekName": "KB-Tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "KB-Tutorial",
+	"startUnlocked": true
+}

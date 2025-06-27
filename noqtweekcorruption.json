@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Fuckedmination-Corrupted-OG",
+			"kb-angry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedmination-Corrupted",
+			"kbc-angry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fuckedmination-Corrupted-V3",
+			"zkbangry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "noqt",
+	"difficulties": "Corruption",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hell is here",
+	"weekName": "weeksmile",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "KB-Tutorial",
+	"startUnlocked": true
+}}

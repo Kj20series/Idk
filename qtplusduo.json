@@ -1,0 +1,56 @@
+{
+	"storyName": "For people who... want something harder?",
+	"difficulties": "Insane",
+	"hideFreeplay": false,
+	"weekBackground": "kbwtf3",
+	"weekBefore": "qtplus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Censory-Reset DUO",
+			"kb-mad",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Deleting DUO",
+			"kb-error",
+			[
+				30,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "qtplusduo"
+}		[
+			"Restoring DUO",
+			"qtkb",
+			[
+				255,
+				60,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "qtplusduo"
+}}}}

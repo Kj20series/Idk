@@ -1,0 +1,58 @@
+{
+	"storyName": "For people who never make mistakes",
+	"difficulties": "insane",
+	"hideFreeplay": false,
+	"weekBackground": "kbwtf2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "qt",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cared EX",
+			"qtkb",
+			[
+				195,
+				0,
+				130
+			]
+		],
+		[
+			"Censory-Reset EX",
+			"kb-mad",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Deleting EX",
+			"kb-error",
+			[
+				35,
+				0,
+				0
+			]
+		],
+		[
+			"Restoring EX",
+			"qtkb",
+			[
+				215,
+				73,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "qtplusex"
+}}}}}

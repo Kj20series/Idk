@@ -1,0 +1,31 @@
+{
+	"storyName": "massacre",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": null,
+	"weekBefore": null,
+	"freeplayColor": [
+		255,
+		0,
+		0
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Massacre",
+			"kb-reignite",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "massacre"
+}
